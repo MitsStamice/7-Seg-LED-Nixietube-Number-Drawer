@@ -28,5 +28,6 @@
 
 原则上禁止用于任何盈利性用途。如需使用，请务必注明原作者名称。
 
-email:[米糍/Mits Stamice](1361393529@qq.com)
+米糍/Mits Stamice
+email:1361393529@qq.com
 2024.2.19
