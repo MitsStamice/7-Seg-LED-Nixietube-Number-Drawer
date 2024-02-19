@@ -27,8 +27,7 @@
 为了避免bug出现，若您已经通过按键2选择抽号的最大数字为1后，再按动按键3去除0，此时抽号器的最大数字将会被自动置为2。
 
 后记：本装置是米糍学习stm32单片机的过程中以学习为目的做的小实验，代码水平很差，写的也很乱，还请大家多多包涵啦。
-
-      Instruction in English will come soon if you like it.
+Instruction in English will come soon if you like it.
 
 原则上禁止用于任何盈利性用途。如需使用，请务必注明原作者名称。
 
